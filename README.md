@@ -1,7 +1,7 @@
 # CsarAlvarez
 #Soy Ingeniero en Sistemas
 #Me gusta programar en JavaScript, Php, Html, CSS.
-#Trabajor con software libre como Linux y derivados.
+#Trabajo con software libre como Linux y derivados.
 ### Hi there 👋, my name is César
 #### Web Developer
 ![Web Developer](https://github.com/CsarAvarez/CsarAlvarez/blob/master/banner-github.png)
