@@ -1,6 +1,7 @@
 # CsarAlvarez
-#Soy Ingeniero en Sistemas
+#Soy Ingeniero en Sistemas e Informática
 #Me gusta programar en Python, JavaScript, Php, Html, CSS.
+#Tengo experiencia en emsamblaje de computadores, mantenimiento preventivo y correctivo, instalación de software, administración de servidores Windows y Linux, administración de redes e internet, cableado estructurado y redes wifi, administración de equipos Mikrotik, administración de cámaras de seguridad CCTV.
 #Trabajo con software privativo Windows y software libre como Linux y derivados.
 ### Hi there 👋, my name is César
 #### Web Developer
